@@ -1,16 +1,20 @@
-### Hi there 👋
+[crowdin]: https://lang.purrbot.site
+[github]: https://github.com/purrbot-site/PurrBot
+[website]: https://purrbot.site
+[info]: https://github.com/purrbot-site/PurrBot/blob/master/translations.md
+[discord]: https://purrbot.site/discord
+[wiki]: https://docs.purrbot.site/bot
 
-<!--
-**Purr-Translations/Purr-Translations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **This account is automated!**  
+> This is a Bot-Account made for handling translations of the [PurrBot Project][github].  
+> You won't receive any responses from it. @mention it also has no effect.
 
-Here are some ideas to get you started:
+## Purr Translations
+This is an account used to handle Translations made on the [PurrBot Crowding project][crowdin].  
+Once a translation is complete will Crowdin push the translated file to the [GitHub Project][github] using this dedicated account for it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you would like to help translating the Discord Bot [\*Purr*][website] make sure to read [this little file about how][info]
+
+## Other links
+- [Discord Server][discord]
+- [Wiki]
