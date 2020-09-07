@@ -13,7 +13,7 @@
 This is an account used to handle Translations made on the [PurrBot Crowding project][crowdin].  
 Once a translation is complete will Crowdin push the translated file to the [GitHub Project][github] using this dedicated account for it.
 
-If you would like to help translating the Discord Bot [\*Purr*][website] make sure to read [this little file about how][info]
+If you would like to help translating the Discord Bot [\*Purr*][website] make sure to read [this little file about how to][info].
 
 ## Other links
 - [Discord Server][discord]
