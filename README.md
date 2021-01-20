@@ -4,10 +4,13 @@
 [info]: https://github.com/purrbot-site/PurrBot/blob/master/translations.md
 [discord]: https://purrbot.site/discord
 [wiki]: https://docs.purrbot.site/bot
+[andre601]: https://github.com/Andre601
 
-> **This account is automated!**  
-> This is a Bot-Account made for handling translations of the [PurrBot Project][github].  
-> You won't receive any responses from it. @mention it also has no effect.
+> ## Automated Account
+> This is a dedicated Account used to handle translations towards the [PurrBot Project][github].  
+> You won't receive any responses from it when you contact it or try to @mention it.
+>
+> If you need info about this account, contact [Andre601] about it.
 
 ## Purr Translations
 This is an account used to handle Translations made on the [PurrBot Crowding project][crowdin].  
