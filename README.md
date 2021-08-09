@@ -13,10 +13,10 @@
 > If you need info about this account, contact [Andre601] about it.
 
 ## Purr Translations
-This is an account used to handle Translations made on the [PurrBot Crowding project][crowdin].  
+This is an account used to handle Translations made on the [PurrBot Crowdin project][crowdin].  
 Once a translation is complete will Crowdin push the translated file to the [GitHub Project][github] using this dedicated account for it.
 
-If you would like to help translating the Discord Bot [\*Purr*][website] make sure to read [this little file about how to][info].
+Please read [this page][info] on how to participate in translating [\*Purr*][website] if you have an interest in translating the bot into your language.
 
 ## Other links
 - [Discord Server][discord]
